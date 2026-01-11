@@ -6,6 +6,8 @@
 
 An AI-powered livestock monitoring system that leverages image and video analysis to automate animal identification, health assessment, and record management for farmers, veterinarians, and field workers.
 
+BACKEND LINK : https://dark-route-backend.onrender.com
+
 ---
 
 ## 🎯 Key Features
@@ -251,6 +253,19 @@ See [LICENSE](LICENSE) file for details.
 **Mock Data**: None - All Real ✅
 
 For complete documentation, see [IMPLEMENTATION_CHECKLIST.md](IMPLEMENTATION_CHECKLIST.md)
+
+Web ML Preview :
+
+![WhatsApp Image 2026-01-11 at 2 27 48 PM](https://github.com/user-attachments/assets/b7f4a1b6-e307-4e7b-8745-094b3fb03cd0)
+
+![WhatsApp Image 2026-01-11 at 2 27 56 PM](https://github.com/user-attachments/assets/b9b9e4b8-82e6-4ecb-9abb-6e89527535af)
+
+![WhatsApp Image 2026-01-11 at 2 28 41 PM](https://github.com/user-attachments/assets/82e0fe0c-3a11-4641-8ec8-1641a40e998b)
+
+
+
+
+
 
 Fluuter Preview :
 
